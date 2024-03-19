@@ -1,1 +1,8 @@
 vite.config.ts
+build/
+public/
+**/coverage/
+**/node_modules/
+**/*.min.json
+*.config.js
+.*lintrc.json
